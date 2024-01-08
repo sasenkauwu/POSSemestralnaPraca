@@ -1,0 +1,3 @@
+C:/Users/mokos/Desktop/UNIZA/5.SEMESTER/Princípy Operačných Systémov/semkaServer/cmake-build-debug/CMakeFiles/semkaServer.dir
+C:/Users/mokos/Desktop/UNIZA/5.SEMESTER/Princípy Operačných Systémov/semkaServer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mokos/Desktop/UNIZA/5.SEMESTER/Princípy Operačných Systémov/semkaServer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
