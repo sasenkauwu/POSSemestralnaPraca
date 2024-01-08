@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/semkaServer.dir/main.c.o CMakeFiles/semkaServer.dir/pos_sockets/passive_socket.c.o CMakeFiles/semkaServer.dir/pos_sockets/char_buffer.c.o CMakeFiles/semkaServer.dir/pos_sockets/active_socket.c.o -o semkaServer  -lpthread 
