@@ -112,7 +112,7 @@ int main() {
                 int startRow = 0;
                 int startColumn = 0;
                 if (iss >> startRow >> startColumn) {
-                    if (startRow > 0 && startRow < rows && startColumn > 0 && startColumn < columns)
+                    if (startRow >= 0 && startRow < rows && startColumn >= 0 && startColumn < columns)
                     {
                         blackCells.emplace_back(startRow, startColumn);
                     } else {
